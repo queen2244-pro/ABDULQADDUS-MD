@@ -22,11 +22,15 @@
 
   <h3>🚀 DEPLOYMENT CENTER</h3>
   
-  <p>Click the button below to deploy your own instance instantly on Heroku.</p>
+  <p>Click the buttons below to get your Pair Code and deploy your instance on Heroku.</p>
 
   <p>
+    <a href="https://prabath-md-pair-46ca486518db.herokuapp.com/">
+       <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pair Code" height="35">
+    </a>
+    &nbsp;&nbsp;
     <a href="https://dashboard.heroku.com/new?template=https://github.com/queen2244-pro/ABDULQADDUS-MD">
-       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="220">
+       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="35">
     </a>
   </p>
 

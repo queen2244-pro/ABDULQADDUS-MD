@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/qMgLB8Jv/1760116353630.jpg" alt="Prabath-MD Logo" width="500">
+  <img src="https://i.ibb.co/W4JV0gLp/f403bad453e4d0f2.jpg" alt="Prabath-MD Logo" width="500">
 
   <br>
   <br>
 
-# 🔮 PRABATH-MD 
+# 🔮 ABDULQADDUS-MD 
 ### Next-Generation JavaScript WhatsApp Assistant
 
   <p>
@@ -24,7 +24,7 @@
   
   <p>Click the button below to deploy your own instance instantly.</p>
 
-  <a href="https://md.prabath.top">
+  <a 
     <img src="https://img.shields.io/badge/DEPLOY%20NOW-WEBSITE-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
   </a>
 
@@ -82,11 +82,11 @@
 
 <div align="center">
 
-<a href="https://md.prabath.top/terms">
+<a">
   <img src="https://img.shields.io/badge/Terms%20%26%20Conditions-Read%20Here-red?style=flat-square" alt="Terms">
 </a>
 
-<a href="https://md.prabath.top/issues">
+<a 
   <img src="https://img.shields.io/badge/Report%20an%20Issue-Contact%20Support-orange?style=flat-square" alt="Issues">
 </a>
 
@@ -94,12 +94,12 @@
 <br>
 
 <a href="https://www.buymeacoffee.com/PrabathKumara">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" >
+  <img src="https://i.ibb.co/W4JV0gLp/f403bad453e4d0f2.jpg" alt="Buy Me A Coffee" width="150" >
 </a>
 
 <p>
   <code>Released: 2023.08.24</code> | <code>Last Updated: 2026.01.04</code>
 </p>
-<p>Made with ❤️ in Sri Lanka 🇱🇰</p>
+<p>Made with ❤️ ABDUL QADDUS 🇱🇰</p>
 
 </div>

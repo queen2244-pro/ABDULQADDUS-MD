@@ -25,7 +25,7 @@
   <p>Click the buttons below to get your Pair Code and deploy your instance on Heroku.</p>
 
   <p>
-    <a href="https://prabath-md-pair-46ca486518db.herokuapp.com/">
+    <a href="https://prabath-md-pair-code.vercel.app/">
        <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pair Code" height="35">
     </a>
     &nbsp;&nbsp;
